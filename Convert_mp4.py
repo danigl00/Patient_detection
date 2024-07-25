@@ -2,10 +2,10 @@ import os
 import subprocess
 
 # Specify the input folder path
-input_folder_path = "i:/Chercheurs/Nguyen_DangKhoa/Projets_Recherche/Video/Video_original/"
+input_folder_path = "I:/Chercheurs/Nguyen_DangKhoa/Projets_Recherche/Video/Nouveau_video_original/"
 
 # Specify the output folder path
-output_folder_path = "C:/Users/p0121182/Project/Patient_detection/Videosmp4/"
+output_folder_path = "I:/Chercheurs/Nguyen_DangKhoa/Projets_Recherche/Video/Nouveau_video_original_mp4/"
 
 # Ensure the output folder exists
 os.makedirs(output_folder_path, exist_ok=True)
